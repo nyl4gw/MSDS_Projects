@@ -1,0 +1,5 @@
+# eBay categories of interest
+# Add new category ID numbers to this list to change the range of where data is being collected
+# Website for categories: 
+
+categories_of_interest = [20082, 162938, 37919, 60209, 37934, 162979, 116556, 162989, 164808, 79947, 162988, 37919, 162939, 162940, 162941, 37921, 37922, 162944, 162945, 37929, 162946, 184440, 162947, 162963, 37933, 73465, 39482, 4733, 18466, 256, 4733, 4738, 3365, 4734, 4735, 3364, 532, 262024, 166734, 870, 262364, 262384, 262365]
